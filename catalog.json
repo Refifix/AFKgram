@@ -80,6 +80,7 @@
       "min_exteragram": "12.9.0",
       "file": "https://raw.githubusercontent.com/Refifix/AFKgram/refs/heads/main/extensions/custom_accent_theme/1.0.0/extension.py",
       "sha256": "f1d919e1a9df7a3f869d9752aa53e05b0239d5c042a164c161e51eebb5a0b6e7",
+      "commit": "0add040b760f2f397461fbaa79ff32a7179d4083",
       "blob_sha": "29d7ff57fa28d1d5b98f5cc21d63dc7fecb83657"
     }
   ]
